@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `I am Rob Zed`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Rob Zed`,
+      summary: ``,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `Ramblings of a programmer, musician, writer and artist.`,
+    siteUrl: `https://robzed.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `robzedgames`,
     },
   },
   plugins: [
