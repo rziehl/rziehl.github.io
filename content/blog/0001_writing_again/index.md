@@ -18,7 +18,7 @@ That announcement faded and I continued with life. I recently bought my first ho
 
 > There are two dozen Cat5 cables, 6-7 HDMI cables, more than a dozen speaker wires, 3 subwoofer cables, a handful of coaxial cables for TV and a home phone cable (which I will probably never use).
 
-It has been a multi-day project so far but it is started to make sense. It's actually kind of fun. The other day whilst finding even more Cat5 cables and determining where in the house they went to, I thought this might actually make a fun game idea.
+It has been a multi-day project so far but it is starting to make sense. It's actually kind of fun. The other day whilst finding even more Cat5 cables and determining where in the house they went to, I thought this might actually make a fun game idea.
 
 There are so many different challenges this project has presented so far already: cables without connectors, dozens of unlabelled ports around the house, miswired cables, cables requiring different wiring at each end, different types of cables, cables getting stripped and repurposed for other uses. I could take each of these different problems and teach them to the player gradually until building up to a project as complex as the one in my house.
 
